@@ -1,0 +1,27 @@
+{
+  "name": "festival_musica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xedd0x/Festival_Musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Gulp"
+  ],
+  "author": "Josue Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xedd0x/Festival_Musica/"
+  },
+  "homepage": "https://github.com/xedd0x/Festival_Musica#readme",
+  "devDependencies": {
+    "sass": "^1.77.8"
+  }
+}
